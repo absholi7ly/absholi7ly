@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdualhadi Khalifa</h1>
-<h3 align="center">I am a passionate person and committed to success in development in the fields of technology in general, and information security in particular. I have a strong background in this field and different skills that enable me to interact in this field. I have worked on many projects in information security. And I wrote tools for me to detect vulnerabilities such as CVE-2024-33566 / CVE-2024-4040 / CVE-2023-34060 / CVE-2023-20048 </h3>
+<h3 align="center">Security researcher | Exploit Dev | My account is not always useful to you 🇱🇾 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absholi7ly&label=Profile%20views&color=0e75b6&style=flat" alt="absholi7ly" /> </p>
 
@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **I'm still learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/absholi7ly/](https://github.com/absholi7ly/)
-
-- 💬 Ask me about **cyber security, Network, bug hunter**
 
 - 📫 How to reach me **abdualhadi.khalifa96@gmail.com**
 
