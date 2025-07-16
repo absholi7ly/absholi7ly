@@ -1,104 +1,33 @@
-<!-- ==================== 🚀 ABDUALHADI KHALIFA ==================== -->
+<h1 align="center">Hi 👋, I'm Abdualhadi Khalifa</h1>
+<h3 align="center">Security researcher | Exploit Dev | My account is not always useful to you 🇱🇾 </h3>
 
-<h1 align="center">🛡️ Hey, I'm Abdualhadi Khalifa</h1>
-<p align="center">
-  <strong>Security Researcher • Exploit Developer • Open Source Contributor 🇱🇾</strong><br/>
-  <em>“Your tools are only as powerful as your curiosity.”</em>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=absholi7ly&label=Profile%20views&color=0e75b6&style=flat" alt="absholi7ly" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absholi7ly" alt="absholi7ly" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@absholi7ly" target="blank"><img src="https://img.shields.io/twitter/follow/@absholi7ly?logo=twitter&style=for-the-badge" alt="@absholi7ly" /></a> </p>
+
+- 🌱 I’m currently learning **I'm still learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/absholi7ly/](https://github.com/absholi7ly/)
+
+- 📫 How to reach me **abdualhadi.khalifa96@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@absholi7ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@absholi7ly" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/absholi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="absholi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15781725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15781725" height="30" width="40" /></a>
+<a href="https://fb.com/absholi.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="absholi.3" height="30" width="40" /></a>
+<a href="https://instagram.com/absholi7ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="absholi7ly" height="30" width="40" /></a>
+<a href="https://medium.com/@libyaazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@libyaazy" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=absholi7ly&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/absholi7ly?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=flat&logo=Hacktoberfest" alt="Hacktoberfest" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absholi7ly&show_icons=true&locale=en&layout=compact" alt="absholi7ly" /></p>
 
-## 📚 Table of Contents
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absholi7ly&show_icons=true&locale=en" alt="absholi7ly" /></p>
 
-- [🧩 Who Am I](#-who-am-i)
-- [⚙️ Super Skills](#-super-skills)
-- [🏆 Key Achievements](#-key-achievements)
-- [🚀 Featured Projects](#-featured-projects)
-- [📈 GitHub Stats](#-github-stats)
-- [🎯 What I'm Working On](#-what-im-working-on)
-- [🔗 Connect With Me](#-connect-with-me)
-- [💡 Motivational Quote](#-motivational-quote)
-
----
-
-## 🧩 Who Am I
-
-Security researcher with deep passion for practical exploit dev, bypass techniques & fuzzing automation.  
-Always building tools that help ethical hackers save time, discover flaws, and think ahead.
-
----
-
-## ⚙️ Super Skills
-
-| 🚀 Languages | 🧰 Tools & Frameworks | 🗄️ Databases |
-|--------------|----------------------|---------------|
-| Python, C#, PHP, SQL | Linux, Git, Burp Suite, Adobe XD, Illustrator | MongoDB, PostgreSQL, MSSQL, MySQL |
-
----
-
-## 🏆 Key Achievements
-
-✅ **Top CVE Finder** in private engagements  
-✅ **Multiple real-world exploit chains** published (privately)  
-✅ **Open Source Contributor**: [Hacktoberfest](https://hacktoberfest.com/) participant  
-✅ **CTF Winner** for local and online competitions
-
----
-
-## 🚀 Featured Projects
-
-✨ **[VulnHunterX](https://github.com/absholi7ly/VulnHunterX)** — One library for automated payload generation, bypasses, POCs & chaining engine.  
-✨ **PayloadForge** — Dynamic multi-layer fuzzing engine for SSRF, LFI, RCE, etc.  
-✨ **BypassLab** — Toolkit for WAF/EDR evasion & polymorphic payload mutation.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=absholi7ly&show_icons=true&theme=dracula" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=absholi7ly&layout=compact&theme=dracula" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=absholi7ly&theme=neon-palenight" alt="Streak" />
-</p>
-
----
-
-## 🎯 What I'm Working On
-
-🗂️ Building next-gen exploit modules for modern stacks  
-🔍 Automating blind vulnerability discovery with AI support  
-💡 Preparing security research content & private training labs
-
----
-
-## 🔗 Connect With Me
-
-| Platform | Link |
-|----------------|-----------------------------|
-| 🐦 Twitter | [@absholi7ly](https://twitter.com/@absholi7ly) |
-| 💼 LinkedIn | [Absholi](https://linkedin.com/in/absholi) |
-| 📂 StackOverflow | [15781725](https://stackoverflow.com/users/15781725) |
-| 📸 Instagram | [absholi7ly](https://instagram.com/absholi7ly) |
-| ✉️ Email | **abdualhadi.khalifa96@gmail.com** |
-
----
-
-## 💡 Motivational Quote
-
-> _"Hack the impossible. Automate the repeatable. Share the wisdom."_ ⚡
-
-<p align="center">Thank you for visiting my README Wall 🚀</p>
-
-<!-- ==================== END ==================== -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=absholi7ly&" alt="absholi7ly" /></p>
