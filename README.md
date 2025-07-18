@@ -1,33 +1,154 @@
-<h1 align="center">Hi 👋, I'm Abdualhadi Khalifa</h1>
-<h3 align="center">Security researcher | Exploit Dev | My account is not always useful to you 🇱🇾 </h3>
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>absholi7ly | Cybersecurity Engineer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Fira Code', monospace;
+      background-color: #0e0e0e;
+      color: #e0e0e0;
+      overflow-x: hidden;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    h1, h2 {
+      color: #00ffcc;
+    }
+    .matrix {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: black;
+      z-index: -1;
+    }
+    .timeline {
+      border-left: 2px solid #00ffcc;
+      margin: 2rem 0;
+      padding-left: 1rem;
+    }
+    .timeline-item {
+      margin-bottom: 1.5rem;
+    }
+    .counter {
+      font-size: 2rem;
+      margin: 2rem 0;
+    }
+    .terminal {
+      background: #111;
+      color: #0f0;
+      padding: 1rem;
+      border-radius: 8px;
+      font-size: 1rem;
+      margin-bottom: 2rem;
+    }
+    .project-showcase {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+    }
+    .card {
+      background: #1e1e1e;
+      border: 1px solid #444;
+      padding: 1rem;
+      border-radius: 8px;
+      transition: transform 0.3s;
+    }
+    .card:hover {
+      transform: scale(1.05);
+    }
+    .stats {
+      margin: 2rem 0;
+    }
+    .radar {
+      width: 100%;
+      max-width: 500px;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <canvas class="matrix"></canvas>
+  <div class="container">
+    <h1>👾 Absholi7ly</h1>
+    <h2>Independent Vulnerability Hunter | Exploit Developer | Cybersecurity Engineer</h2><div class="terminal">
+  <p><strong>$ whoami</strong></p>
+  <p>🧠 Security Researcher</p>
+  <p>🕵️ Exploit Deployment Specialist</p>
+  <p>💻 Python/Web Scripter</p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=absholi7ly&label=Profile%20views&color=0e75b6&style=flat" alt="absholi7ly" /> </p>
+<h2>📈 GitHub Stats</h2>
+<div class="stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=absholi7ly&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=absholi7ly&theme=radical" alt="GitHub Streak" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absholi7ly" alt="absholi7ly" /></a> </p>
+<h2>📅 Career Timeline</h2>
+<div class="timeline">
+  <div class="timeline-item">🔍 2020 - Started Bug Bounty & CTFs</div>
+  <div class="timeline-item">🚨 2021 - Reported multiple CVEs</div>
+  <div class="timeline-item">💡 2022 - Built internal exploit automation tools</div>
+  <div class="timeline-item">🔐 2023 - Joined underground security collectives</div>
+</div>
 
-<p align="left"> <a href="https://twitter.com/@absholi7ly" target="blank"><img src="https://img.shields.io/twitter/follow/@absholi7ly?logo=twitter&style=for-the-badge" alt="@absholi7ly" /></a> </p>
+<h2>📊 Radar of Expertise</h2>
+<div class="radar">
+  <img src="https://cr-skills-chart-widget.vercel.app/api?username=absholi7ly&labels=true" alt="Skills Radar" />
+</div>
 
-- 🌱 I’m currently learning **I'm still learning**
+<h2>🧪 PoC / Projects</h2>
+<div class="project-showcase">
+  <div class="card">
+    <h3>🔍 CVE-2025-20337</h3>
+    <p>Remote Root RCE on Cisco ISE - Python PoC</p>
+  </div>
+  <div class="card">
+    <h3>🕷️ Web Vuln Scanner</h3>
+    <p>Custom scanner for XSS/LFI/SQLi detection</p>
+  </div>
+  <div class="card">
+    <h3>🦞 ShellDrop</h3>
+    <p>Reverse Shell deployment tool with payload rotator</p>
+  </div>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/absholi7ly/](https://github.com/absholi7ly/)
+<h2>🎯 Contact</h2>
+<p>Email: <a href="mailto:Abdualhadi.khalifa96@gmail.com">Abdualhadi.khalifa96@gmail.com</a></p>
+<p>Telegram: <a href="https://t.me/absholi7ly">@absholi7ly</a></p>
 
-- 📫 How to reach me **abdualhadi.khalifa96@gmail.com**
+  </div>  <!-- Matrix Rain Script -->  <script>
+    const canvas = document.querySelector(".matrix");
+    const ctx = canvas.getContext("2d");
+    canvas.height = window.innerHeight;
+    canvas.width = window.innerWidth;
+    const letters = "01".split("");
+    const fontSize = 14;
+    const columns = canvas.width / fontSize;
+    const drops = Array(Math.floor(columns)).fill(1);
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@absholi7ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@absholi7ly" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/absholi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="absholi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15781725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15781725" height="30" width="40" /></a>
-<a href="https://fb.com/absholi.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="absholi.3" height="30" width="40" /></a>
-<a href="https://instagram.com/absholi7ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="absholi7ly" height="30" width="40" /></a>
-<a href="https://medium.com/@libyaazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@libyaazy" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absholi7ly&show_icons=true&locale=en&layout=compact" alt="absholi7ly" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absholi7ly&show_icons=true&locale=en" alt="absholi7ly" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=absholi7ly&" alt="absholi7ly" /></p>
+    function draw() {
+      ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = "#0f0";
+      ctx.font = fontSize + "px monospace";
+      for (let i = 0; i < drops.length; i++) {
+        const text = letters[Math.floor(Math.random() * letters.length)];
+        ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+        if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) drops[i] = 0;
+        drops[i]++;
+      }
+    }
+    setInterval(draw, 33);
+  </script>  <!-- Sound Effect on Load -->  <audio autoplay>
+    <source src="https://assets.mixkit.co/sfx/preview/mixkit-retro-arcade-casino-notification-211.mp3" type="audio/mpeg">
+  </audio>
+</body>
+</html>
