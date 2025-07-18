@@ -1,33 +1,112 @@
-<h1 align="center">Hi 👋, I'm Abdualhadi Khalifa</h1>
-<h3 align="center">Security researcher | Exploit Dev | My account is not always useful to you 🇱🇾 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=absholi7ly&label=Profile%20views&color=0e75b6&style=flat" alt="absholi7ly" /> </p>
+<!-- Cyberpunk Terminal-Style GitHub README for a Stealth Bug Hunter -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absholi7ly" alt="absholi7ly" /></a> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/@absholi7ly" target="blank"><img src="https://img.shields.io/twitter/follow/@absholi7ly?logo=twitter&style=for-the-badge" alt="@absholi7ly" /></a> </p>
+![Matrix](https://raw.githubusercontent.com/epicusername/matrix-background/main/matrix.svg)
 
-- 🌱 I’m currently learning **I'm still learning**
+<h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+%24h4d0w+Terminal...;Initializing+cyber+identity...;Access+Granted+%F0%9F%92%AB" alt="Typing SVG" /></h1>
 
-- 👨‍💻 All of my projects are available at [https://github.com/absholi7ly/](https://github.com/absholi7ly/)
+</div>
 
-- 📫 How to reach me **abdualhadi.khalifa96@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@absholi7ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@absholi7ly" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/absholi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="absholi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15781725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15781725" height="30" width="40" /></a>
-<a href="https://fb.com/absholi.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="absholi.3" height="30" width="40" /></a>
-<a href="https://instagram.com/absholi7ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="absholi7ly" height="30" width="40" /></a>
-<a href="https://medium.com/@libyaazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@libyaazy" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=180&section=header&text=absholi7ly%20%F0%9F%94%92%20%7C%20Cyber%20Hunter&fontSize=30&fontColor=ffffff" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absholi7ly&show_icons=true&locale=en&layout=compact" alt="absholi7ly" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absholi7ly&show_icons=true&locale=en" alt="absholi7ly" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=absholi7ly&" alt="absholi7ly" /></p>
+## 🧬 <code><b>whoami</b></code>
+
+```bash
+> login: absholi7ly
+> password: ••••••••••••••••
+Access granted.
+
+<div align="center">🔐 Bug Hunter | 🧠 Security Researcher | 🛠️ Exploit Developer | 🧑‍💻 Python Coder
+Operates from the shadows — mastering the art of vulnerability orchestration.
+
+</div>
+---
+
+🧰 <code><b>Skills Matrix</b></code>
+
+┌────────────────────────────┬────────────────────────────┐
+│ Vulnerability Analysis     │ Web Exploitation           │
+├────────────────────────────┼────────────────────────────┤
+│ Python Scripting           │ Advanced Reconnaissance    │
+├────────────────────────────┼────────────────────────────┤
+│ Burp Suite / Wireshark     │ Metasploit / Nmap          │
+└────────────────────────────┴────────────────────────────┘
+
+
+---
+
+📊 <code><b>Real-Time Stats</b></code>
+
+<div align="center">
+
+
+
+
+
+</div>
+---
+
+🧾 <code><b>Cyber Credentials</b></code>
+
+<div align="center"><img src="https://img.shields.io/github/followers/absholi7ly?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/absholi7ly?style=social" />
+<img src="https://img.shields.io/badge/Bugcrowd-Hall%20of%20Fame-orange?logo=bugcrowd" />
+<img src="https://img.shields.io/badge/HackTheBox-Elite-green?logo=hackthebox" />
+<img src="https://img.shields.io/badge/OWASP-Member-7f3180?logo=owasp" /></div>
+---
+
+🔗 <code><b>Connect with me</b></code>
+
+<div align="center"><a href="https://t.me/absholi7ly"><img src="https://img.shields.io/badge/Telegram-%2300BFFF.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://linkedin.com/in/absholi7ly"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://absholi7ly.com/absholi7ly.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84%20View%20CV-gray?style=for-the-badge" /></a> <a href="https://github.com/absholi7ly?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%94%8D%20View%20PoC-222?style=for-the-badge&logo=github" /></a> <a href="mailto:hunter@absholi7ly.com"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20Contact%20Me-red?style=for-the-badge" /></a>
+
+</div>
+---
+
+🎁 <code><b>Hidden Payload</b></code>
+
+> “The quieter you become, the more you are able to hear.”
+― absholi7ly
+
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/epicusername/hacker-matrix-art/main/hackart.svg" height="180"/>
+</div>
+---
+
+💻 Custom Styling & Easter Egg
+
+<style>
+  body {
+    background-color: #000;
+    color: #00FF00;
+    font-family: "Fira Code", monospace;
+  }
+</style>
+
+<!-- Surprise animation (hover over the badges for glitch effect via shields.io tricks!) -->
+
+
+---
+
+> 🧠 This README auto-adapts to light/dark mode using GitHub's native theming — try it!
+
+
+
+
+---
+
+🎯 جاهز لترك أثر؟ Fork it, Star it, Hack it.
+
+
+---
