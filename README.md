@@ -1,160 +1,33 @@
-<!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>absholi7ly - Cybersecurity Engineer</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Share Tech Mono', monospace;
-      background-color: #000;
-      color: #0f0;
-      overflow-x: hidden;
-    }
-    .matrix {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      background: black;
-      z-index: -1;
-    }
-    canvas {
-      display: block;
-    }
-    .terminal {
-      background-color: rgba(0, 0, 0, 0.8);
-      border: 2px solid #0f0;
-      padding: 1rem;
-      margin: 2rem;
-      font-size: 1rem;
-      white-space: pre-wrap;
-      animation: typing 3s steps(30, end), blink-caret 0.75s step-end infinite;
-    }
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-    @keyframes blink-caret {
-      from, to { border-color: transparent; }
-      50% { border-color: #0f0; }
-    }
-    .btn {
-      display: inline-block;
-      background: #00ffcc;
-      color: #000;
-      padding: 0.5rem 1rem;
-      margin: 0.5rem;
-      text-decoration: none;
-      font-weight: bold;
-      border-radius: 5px;
-      box-shadow: 0 0 10px #00ffcc, 0 0 40px #00ffcc;
-    }
-    .project-card {
-      background: #111;
-      padding: 1rem;
-      margin: 1rem;
-      border: 1px solid #0f0;
-      border-radius: 10px;
-      box-shadow: 0 0 10px #0f0;
-    }
-    .skills-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-      gap: 1rem;
-      margin: 2rem;
-    }
-    .skill-bar {
-      background: #333;
-      border: 1px solid #0f0;
-      height: 20px;
-      border-radius: 5px;
-      overflow: hidden;
-    }
-    .skill-bar-fill {
-      height: 100%;
-      background: #0f0;
-      width: 80%;
-    }
-    .timeline {
-      margin: 2rem;
-      border-left: 2px solid #0f0;
-      padding-left: 1rem;
-    }
-    .timeline-entry {
-      margin: 1rem 0;
-    }
-    .search {
-      margin: 1rem;
-    }
-  </style>
-</head>
-<body>
-  <canvas class="matrix"></canvas>  <div class="terminal">
-    <h2>Welcome to absholi7ly’s Realm</h2>
-    <p>Independent Vulnerability Hunter | Exploit Developer | Cybersecurity Engineer in the Shadows</p>
-  </div>  <div class="search">
-    <input type="text" placeholder="Search projects..." style="width: 100%; padding: 0.5rem;">
-  </div>  <div class="skills-grid">
-    <div>
-      <strong>Burp Suite</strong>
-      <div class="skill-bar"><div class="skill-bar-fill" style="width: 90%"></div></div>
-    </div>
-    <div>
-      <strong>Wireshark</strong>
-      <div class="skill-bar"><div class="skill-bar-fill" style="width: 85%"></div></div>
-    </div>
-    <div>
-      <strong>Python Scripting</strong>
-      <div class="skill-bar"><div class="skill-bar-fill" style="width: 95%"></div></div>
-    </div>
-  </div>  <div class="timeline">
-    <div class="timeline-entry">
-      <h4>2023</h4>
-      <p>Discovered multiple CVEs in government platforms.</p>
-    </div>
-    <div class="timeline-entry">
-      <h4>2024</h4>
-      <p>Developed POCs for critical RCE vulnerabilities.</p>
-    </div>
-  </div>  <div class="project-card">
-    <h3>🔐 Exploit Hub</h3>
-    <p>Repository for advanced exploits and bypass techniques.</p>
-    <a href="#" class="btn">Explore</a>
-  </div>  <div class="project-card">
-    <h3>🛡️ XSS Toolkit</h3>
-    <p>Custom scripts and tools to detect and test XSS vectors.</p>
-    <a href="#" class="btn">Try it</a>
-  </div>  <script>
-    // Matrix Effect
-    const canvas = document.querySelector("canvas");
-    const ctx = canvas.getContext("2d");
-    canvas.height = window.innerHeight;
-    canvas.width = window.innerWidth;
-    const chars = "01";
-    const fontSize = 14;
-    const columns = canvas.width / fontSize;
-    const drops = Array.from({ length: columns }, () => 1);
-    function draw() {
-      ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
-      ctx.fillRect(0, 0, canvas.width, canvas.height);
-      ctx.fillStyle = "#0f0";
-      ctx.font = `${fontSize}px monospace`;
-      for (let i = 0; i < drops.length; i++) {
-        const text = chars[Math.floor(Math.random() * chars.length)];
-        ctx.fillText(text, i * fontSize, drops[i] * fontSize);
-        if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) drops[i] = 0;
-        drops[i]++;
-      }
-    }
-    setInterval(draw, 35);
+<h1 align="center">Hi 👋, I'm Abdualhadi Khalifa</h1>
+<h3 align="center">Security researcher | Exploit Dev | My account is not always useful to you 🇱🇾 </h3>
 
-    // Sound Effect on Load
-    const sound = new Audio('https://www.soundjay.com/button/beep-07.wav');
-    sound.volume = 0.3;
-    window.addEventListener('load', () => sound.play());
-  </script></body>
-</html>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=absholi7ly&label=Profile%20views&color=0e75b6&style=flat" alt="absholi7ly" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absholi7ly" alt="absholi7ly" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@absholi7ly" target="blank"><img src="https://img.shields.io/twitter/follow/@absholi7ly?logo=twitter&style=for-the-badge" alt="@absholi7ly" /></a> </p>
+
+- 🌱 I’m currently learning **I'm still learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/absholi7ly/](https://github.com/absholi7ly/)
+
+- 📫 How to reach me **abdualhadi.khalifa96@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@absholi7ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@absholi7ly" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/absholi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="absholi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15781725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15781725" height="30" width="40" /></a>
+<a href="https://fb.com/absholi.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="absholi.3" height="30" width="40" /></a>
+<a href="https://instagram.com/absholi7ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="absholi7ly" height="30" width="40" /></a>
+<a href="https://medium.com/@libyaazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@libyaazy" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absholi7ly&show_icons=true&locale=en&layout=compact" alt="absholi7ly" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absholi7ly&show_icons=true&locale=en" alt="absholi7ly" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=absholi7ly&" alt="absholi7ly" /></p>
