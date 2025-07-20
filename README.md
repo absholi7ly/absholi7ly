@@ -1,32 +1,33 @@
 <p align="center">
   <pre>
-┌──[NEON_CYBERGRID]─[ABSHOLI7LY]─[~/digital-sprawl]
-└──$ boot --init
-  ╔═══════════════════════════════════════════════╗
-  ║   ____ _          _ _       _ _       _       ║
-  ║  / ___| |__   ___| | | ___ | | | ___ | |      ║
-  ║ | |   | '_ \ / __| | |/ _ \| | |/ _ \| |      ║
-  ║ | |___| | | | (__| | | (_) | | |  __/| |      ║
-  ║  \____|_| |_|____|_|_|\___/|_|_|\____|_|      ║
-  ╚═══════════════════════════════════════════════╝
+┌──[NEON_VAULT]─[ABSHOLI7LY]─[~/cyber-core]
+└──$ system_init --user Abdualhadi_Khalifa
+  ╔════════════════════════════════════════════════════╗
+  ║   ____ _          _ _       _ _       _            ║
+  ║  / ___| |__   ___| | | ___ | | | ___ | | ___   ___ ║
+  ║ | |   | '_ \ / __| | |/ _ \| | |/ _ \| |/ __| / __|║
+  ║ | |___| | | | (__| | | (_) | | |  __/| | (__ | (__ ║
+  ║  \____|_| |_|____|_|_|\___/|_|_|\____|_| \___|\___|║
+  ╚════════════════════════════════════════════════════╝
 
-[SYSTEM_BOOT] Initializing CyberGrid v3.7.1...
-[STATUS] Connected to the Neon Matrix. Welcome, runner!
+[NEON_VAULT v4.2.3] Booting CyberCore Matrix...
+[STATUS] System online. Welcome to the digital frontier, runner!
 
-[PROFILE] I’m Abdualhadi Khalifa, a security researcher and exploit dev slicing through the digital underbelly.
+[PROFILE] Abdualhadi Khalifa | Security Researcher | Exploit Developer
+[LOCATION] Navigating the neon-lit depths of cyberspace
 
-[INTERACTIVE_TERMINAL] Enter a command to interact:
-  > <a href="https://github.com/absholi7ly">projects</a>
-    └─ Output: Accessing repository... [Projects loaded: https://github.com/absholi7ly]
-  > <a href="mailto:abdualhadi.khalifa96@gmail.com">contact</a>
-    └─ Output: Sending encrypted signal to abdualhadi.khalifa96@gmail.com
-  > <a href="https://twitter.com/@absholi7ly">social</a>
-    └─ Output: Connecting to neural network... [Twitter: @absholi7ly]
-  > <a href="https://linkedin.com/in/absholi">career</a>
-    └─ Output: Accessing professional node... [LinkedIn: absholi]
+[COMMAND_EXECUTION_LOG]:
+  > whoami
+    └─ [OUTPUT] User: Abdualhadi Khalifa | Role: CyberSmith | Access: Root
+  > scan_projects
+    └─ [OUTPUT] Scanning GitHub repository... Found: https://github.com/absholi7ly
+  > send_signal
+    └─ [OUTPUT] Transmitting encrypted packet to abdualhadi.khalifa96@gmail.com
+  > connect_network
+    └─ [OUTPUT] Linking to neural grid... Connected: @absholi7ly [Twitter]
 
-┌──[SIGNATURE]─[NEON_SHADOW]
-└──$ echo "Hack the planet, secure the future. - Abdualhadi Khalifa"
+┌──[SIGNATURE]─[CYBER_SMITH]
+└──$ echo "Forge the code, guard the grid. - Abdualhadi Khalifa"
   </pre>
 </p>
 
