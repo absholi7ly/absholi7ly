@@ -1,18 +1,24 @@
 <p align="center">
   <pre>
-┌──[CYBERPUNK_TERMINAL]─[ABSHOLI7LY]─[~/welcome]
-└──$ whoami
-  ____ _          _ _       
- / ___| |__   ___| | | ___  
-| |   | '_ \ / __| | |/ _ \ 
-| |___| | | | (__| | |  __/
- \____|_| |_|____|_|_|\___|
+┌──[CYBERPUNK_MATRIX]─[ABSHOLI7LY]─[~/neon-grid]
+└──$ init_system --user Abdualhadi_Khalifa
+  ╔════════════════════════════════════════════╗
+  ║  ____ _          _ _       _ _             ║
+  ║ / ___| |__   ___| | | ___ | | | ___   ___  ║
+  ║| |   | '_ \ / __| | |/ _ \| | |/ _ \ / __| ║
+  ║| |___| | | | (__| | | (_) | | |  __/| (__  ║
+  ║ \____|_| |_|____|_|_|\___/|_|_|\____|\___| ║
+  ╚════════════════════════════════════════════╝
 
-Welcome to my digital domain, traveler! 
-I’m Abdualhadi Khalifa, a security researcher and exploit developer navigating the neon-lit streets of cyberspace.
+[NEON_BOOT] System initializing...
+[INFO] Welcome to the CyberGrid, runner! I’m Abdualhadi Khalifa, a security researcher and exploit developer slicing through the digital sprawl.
+[CMD] Available commands:
+  > <a href="https://github.com/absholi7ly">whoami</a> : Explore my projects
+  > <a href="mailto:abdualhadi.khalifa96@gmail.com">ping</a> : Contact me
+  > <a href="https://twitter.com/@absholi7ly">connect</a> : Join my network
 
-┌──[SIGNATURE]─[ABSHOLI7LY]
-└──$ echo "Stay curious, stay secure. - Abdualhadi Khalifa"
+┌──[SIGNATURE]─[NEON_SHADOW]
+└──$ echo "Code the future, secure the past. - Abdualhadi Khalifa"
   </pre>
 </p>
 
