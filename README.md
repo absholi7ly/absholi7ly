@@ -1,24 +1,32 @@
 <p align="center">
   <pre>
-┌──[CYBERPUNK_MATRIX]─[ABSHOLI7LY]─[~/neon-grid]
-└──$ init_system --user Abdualhadi_Khalifa
-  ╔════════════════════════════════════════════╗
-  ║  ____ _          _ _       _ _             ║
-  ║ / ___| |__   ___| | | ___ | | | ___   ___  ║
-  ║| |   | '_ \ / __| | |/ _ \| | |/ _ \ / __| ║
-  ║| |___| | | | (__| | | (_) | | |  __/| (__  ║
-  ║ \____|_| |_|____|_|_|\___/|_|_|\____|\___| ║
-  ╚════════════════════════════════════════════╝
+┌──[NEON_CYBERGRID]─[ABSHOLI7LY]─[~/digital-sprawl]
+└──$ boot --init
+  ╔═══════════════════════════════════════════════╗
+  ║   ____ _          _ _       _ _       _       ║
+  ║  / ___| |__   ___| | | ___ | | | ___ | |      ║
+  ║ | |   | '_ \ / __| | |/ _ \| | |/ _ \| |      ║
+  ║ | |___| | | | (__| | | (_) | | |  __/| |      ║
+  ║  \____|_| |_|____|_|_|\___/|_|_|\____|_|      ║
+  ╚═══════════════════════════════════════════════╝
 
-[NEON_BOOT] System initializing...
-[INFO] Welcome to the CyberGrid, runner! I’m Abdualhadi Khalifa, a security researcher and exploit developer slicing through the digital sprawl.
-[CMD] Available commands:
-  > <a href="https://github.com/absholi7ly">whoami</a> : Explore my projects
-  > <a href="mailto:abdualhadi.khalifa96@gmail.com">ping</a> : Contact me
-  > <a href="https://twitter.com/@absholi7ly">connect</a> : Join my network
+[SYSTEM_BOOT] Initializing CyberGrid v3.7.1...
+[STATUS] Connected to the Neon Matrix. Welcome, runner!
+
+[PROFILE] I’m Abdualhadi Khalifa, a security researcher and exploit dev slicing through the digital underbelly.
+
+[INTERACTIVE_TERMINAL] Enter a command to interact:
+  > <a href="https://github.com/absholi7ly">projects</a>
+    └─ Output: Accessing repository... [Projects loaded: https://github.com/absholi7ly]
+  > <a href="mailto:abdualhadi.khalifa96@gmail.com">contact</a>
+    └─ Output: Sending encrypted signal to abdualhadi.khalifa96@gmail.com
+  > <a href="https://twitter.com/@absholi7ly">social</a>
+    └─ Output: Connecting to neural network... [Twitter: @absholi7ly]
+  > <a href="https://linkedin.com/in/absholi">career</a>
+    └─ Output: Accessing professional node... [LinkedIn: absholi]
 
 ┌──[SIGNATURE]─[NEON_SHADOW]
-└──$ echo "Code the future, secure the past. - Abdualhadi Khalifa"
+└──$ echo "Hack the planet, secure the future. - Abdualhadi Khalifa"
   </pre>
 </p>
 
